@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying study when using these figures, data or code."
+type: dataset
+title: "Incentives, communication and the time course of cooperation in language-model public-goods games"
+authors:
+  - family-names: Zhang
+    given-names: Liming
+  - family-names: Lin
+    given-names: Jiayuan
+  - family-names: Huang
+    given-names: Changwei
+  - family-names: Benko
+    given-names: Tina P.
+  - family-names: Perc
+    given-names: Matjaž
+version: 1.0.0
+date-released: 2026-11-05

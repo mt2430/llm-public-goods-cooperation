@@ -1,0 +1,80 @@
+{
+  "data_tables": 38,
+  "main_figures": 7,
+  "supplementary_figures": 3,
+  "all_10_figures_reproduced": true,
+  "all_reproduced_figures_pixel_identical": true,
+  "numerical_validation_passed": true,
+  "figures": [
+    {
+      "figure": "Figure_1",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_2",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_3",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_4",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_5",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_6",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_7",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_S1",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_S2",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "figure": "Figure_S3",
+      "same_dimensions": true,
+      "identical_pixels": true,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    }
+  ]
+}

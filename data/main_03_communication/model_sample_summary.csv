@@ -1,0 +1,7 @@
+configuration_id,conditions,groups,min_n,max_n
+claude_reasoning_enabled,15,450,30,30
+deepseek_reasoning_enabled,15,160,10,13
+gemini_reasoning_enabled,15,450,30,30
+glm_reasoning_enabled,15,450,30,30
+gpt_reasoning_enabled,15,450,30,30
+kimi_reasoning_enabled,15,450,30,30

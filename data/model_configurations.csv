@@ -1,0 +1,10 @@
+configuration_id,model,model_identifier,reasoning,reasoning_effort
+claude_reasoning_enabled,Claude,claude-haiku-5-5,enabled,medium
+claude_reasoning_disabled,Claude,claude-haiku-5-5,disabled,none
+deepseek_reasoning_disabled,DeepSeek,deepseek-flash,disabled,none
+deepseek_reasoning_enabled,DeepSeek,deepseek-flash,enabled,high
+gemini_reasoning_enabled,Gemini,gemini-3.8-flash,enabled,medium
+glm_reasoning_enabled,GLM,glm-5.2,enabled,high
+gpt_reasoning_enabled,GPT,gpt-6-sol,enabled,medium
+gpt_reasoning_disabled,GPT,gpt-6-sol,disabled,none
+kimi_reasoning_enabled,Kimi,kimi-k3,enabled,high

@@ -1,0 +1,748 @@
+[
+  {
+    "file": "data/group_records/no_communication_rounds.csv",
+    "rows": 80150,
+    "columns": [
+      "trajectory_id",
+      "round",
+      "contribution_rate",
+      "mean_payoff",
+      "group_count",
+      "atlas_cell_id"
+    ]
+  },
+  {
+    "file": "data/group_records/no_communication_trajectories.csv",
+    "rows": 8015,
+    "columns": [
+      "trajectory_id",
+      "atlas_class",
+      "atlas_block",
+      "atlas_cell_id",
+      "model_family",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "realized_rounds",
+      "replicate",
+      "atlas_mean",
+      "atlas_late",
+      "atlas_early",
+      "atlas_final",
+      "atlas_delta",
+      "atlas_terminal",
+      "atlas_zero",
+      "atlas_full",
+      "atlas_dispersion",
+      "atlas_payoff",
+      "atlas_volatility",
+      "terminal_rule"
+    ]
+  },
+  {
+    "file": "data/main_01_02/condition_statistics_N6.csv",
+    "rows": 66,
+    "columns": [
+      "atlas_class",
+      "atlas_block",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "atlas_cell_id",
+      "n",
+      "realized_min",
+      "realized_max",
+      "mean",
+      "mean_lo",
+      "mean_hi",
+      "late",
+      "late_lo",
+      "late_hi",
+      "early",
+      "early_lo",
+      "early_hi",
+      "final",
+      "final_lo",
+      "final_hi",
+      "delta_lo",
+      "delta_hi",
+      "terminal_lo",
+      "terminal_hi",
+      "zero",
+      "zero_lo",
+      "zero_hi",
+      "full",
+      "full_lo",
+      "full_hi",
+      "dispersion",
+      "dispersion_lo",
+      "dispersion_hi",
+      "payoff",
+      "payoff_lo",
+      "payoff_hi",
+      "volatility",
+      "volatility_lo",
+      "volatility_hi",
+      "sd",
+      "sd_lo",
+      "sd_hi",
+      "continuation_probability"
+    ]
+  },
+  {
+    "file": "data/main_01_02/round_statistics_N6.csv",
+    "rows": 660,
+    "columns": [
+      "atlas_class",
+      "atlas_block",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "atlas_cell_id",
+      "round",
+      "n_alive",
+      "mean",
+      "lo",
+      "hi",
+      "p10",
+      "p90",
+      "continuation_probability"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/complete_rounds.csv",
+    "rows": 24100,
+    "columns": [
+      "trajectory_id",
+      "round",
+      "contribution_rate",
+      "mean_payoff",
+      "group_count"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/condition_source_data.csv",
+    "rows": 90,
+    "columns": [
+      "atlas_class",
+      "atlas_block",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "atlas_cell_id",
+      "n",
+      "realized_min",
+      "realized_max",
+      "mean",
+      "mean_lo",
+      "mean_hi",
+      "late",
+      "late_lo",
+      "late_hi",
+      "early",
+      "early_lo",
+      "early_hi",
+      "final",
+      "final_lo",
+      "final_hi",
+      "delta_lo",
+      "delta_hi",
+      "terminal_lo",
+      "terminal_hi",
+      "zero",
+      "zero_lo",
+      "zero_hi",
+      "full",
+      "full_lo",
+      "full_hi",
+      "dispersion",
+      "dispersion_lo",
+      "dispersion_hi",
+      "payoff",
+      "payoff_lo",
+      "payoff_hi",
+      "volatility",
+      "volatility_lo",
+      "volatility_hi",
+      "sd",
+      "sd_lo",
+      "sd_hi",
+      "continuation_probability"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/derived_condition_metrics.csv",
+    "rows": 90,
+    "columns": [
+      "configuration_id",
+      "R",
+      "communication",
+      "n",
+      "mean",
+      "late",
+      "final"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/effects_by_R.csv",
+    "rows": 270,
+    "columns": [
+      "configuration_id",
+      "contrast",
+      "arm_a",
+      "arm_b",
+      "metric",
+      "estimate_pp",
+      "lo_pp",
+      "hi_pp",
+      "bootstrap_replicates",
+      "R",
+      "n_a",
+      "n_b"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/model_sample_summary.csv",
+    "rows": 6,
+    "columns": [
+      "configuration_id",
+      "conditions",
+      "groups",
+      "min_n",
+      "max_n"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/plotted_direct_effect_map.csv",
+    "rows": 60,
+    "columns": [
+      "configuration_id",
+      "contrast",
+      "arm_a",
+      "arm_b",
+      "metric",
+      "estimate_pp",
+      "lo_pp",
+      "hi_pp",
+      "bootstrap_replicates",
+      "R",
+      "n_a",
+      "n_b",
+      "figure_model_index",
+      "panel",
+      "heatmap_row",
+      "heatmap_column"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/plotted_time_courses.csv",
+    "rows": 720,
+    "columns": [
+      "atlas_class",
+      "atlas_block",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "atlas_cell_id",
+      "round",
+      "n_alive",
+      "mean",
+      "lo",
+      "hi",
+      "p10",
+      "p90",
+      "continuation_probability",
+      "figure_model_index",
+      "panel"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/round_source_data.csv",
+    "rows": 900,
+    "columns": [
+      "atlas_class",
+      "atlas_block",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "atlas_cell_id",
+      "round",
+      "n_alive",
+      "mean",
+      "lo",
+      "hi",
+      "p10",
+      "p90",
+      "continuation_probability"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/social_dilemma_effects.csv",
+    "rows": 54,
+    "columns": [
+      "configuration_id",
+      "contrast",
+      "arm_a",
+      "arm_b",
+      "metric",
+      "estimate_pp",
+      "lo_pp",
+      "hi_pp",
+      "bootstrap_replicates",
+      "R_values",
+      "weighting",
+      "n_a_total",
+      "n_b_total"
+    ]
+  },
+  {
+    "file": "data/main_03_communication/trajectory_source_data.csv",
+    "rows": 2410,
+    "columns": [
+      "trajectory_id",
+      "atlas_class",
+      "atlas_block",
+      "atlas_cell_id",
+      "model_family",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "realized_rounds",
+      "replicate",
+      "atlas_mean",
+      "atlas_late",
+      "atlas_early",
+      "atlas_final",
+      "atlas_delta",
+      "atlas_terminal",
+      "atlas_zero",
+      "atlas_full",
+      "atlas_dispersion",
+      "atlas_payoff",
+      "atlas_volatility"
+    ]
+  },
+  {
+    "file": "data/main_04_actions/individual_action_source.csv",
+    "rows": 86820,
+    "columns": [
+      "trajectory_id",
+      "round",
+      "participant",
+      "contribution_rate",
+      "configuration_id",
+      "R",
+      "N",
+      "communication",
+      "state"
+    ]
+  },
+  {
+    "file": "data/main_04_actions/state_composition.csv",
+    "rows": 540,
+    "columns": [
+      "configuration_id",
+      "communication",
+      "round",
+      "state",
+      "share",
+      "n_groups",
+      "R_values"
+    ]
+  },
+  {
+    "file": "data/main_04_actions/state_support.csv",
+    "rows": 54,
+    "columns": [
+      "configuration_id",
+      "R",
+      "N",
+      "communication",
+      "n_groups",
+      "individual_actions"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/fixed_round_source.csv",
+    "rows": 3260,
+    "columns": [
+      "trajectory_id",
+      "round",
+      "contribution_rate",
+      "mean_payoff",
+      "group_count"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/fixed_trajectory_source.csv",
+    "rows": 326,
+    "columns": [
+      "trajectory_id",
+      "atlas_class",
+      "atlas_block",
+      "atlas_cell_id",
+      "model_family",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "terminal",
+      "delta",
+      "pool_size",
+      "realized_rounds",
+      "replicate",
+      "atlas_mean",
+      "atlas_late",
+      "atlas_early",
+      "atlas_final",
+      "atlas_delta",
+      "atlas_terminal",
+      "atlas_zero",
+      "atlas_full",
+      "atlas_dispersion",
+      "atlas_payoff",
+      "atlas_volatility"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/random_round_source.csv",
+    "rows": 4668,
+    "columns": [
+      "slot_id",
+      "model",
+      "R",
+      "replicate",
+      "round",
+      "contribution_rate"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/random_trajectory_source.csv",
+    "rows": 357,
+    "columns": [
+      "slot_id",
+      "model",
+      "R",
+      "replicate",
+      "registered_rounds",
+      "completed_rounds",
+      "mean_rate",
+      "late_rate"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/termination_contrasts.csv",
+    "rows": 24,
+    "columns": [
+      "model",
+      "R",
+      "metric",
+      "mean",
+      "lo",
+      "hi"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/termination_counts.csv",
+    "rows": 24,
+    "columns": [
+      "model",
+      "R",
+      "regime",
+      "n"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/termination_summary.csv",
+    "rows": 48,
+    "columns": [
+      "model",
+      "R",
+      "regime",
+      "metric",
+      "mean",
+      "lo",
+      "hi",
+      "n"
+    ]
+  },
+  {
+    "file": "data/main_05_termination/termination_trajectory_means.csv",
+    "rows": 683,
+    "columns": [
+      "model",
+      "R",
+      "regime",
+      "trajectory_id",
+      "rounds",
+      "mean",
+      "late"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_6_condition_counts.csv",
+    "rows": 216,
+    "columns": [
+      "configuration_id",
+      "N",
+      "R",
+      "communication",
+      "n"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_6_condition_summary.csv",
+    "rows": 648,
+    "columns": [
+      "configuration_id",
+      "communication",
+      "N",
+      "R",
+      "metric",
+      "estimate",
+      "lo",
+      "hi",
+      "n"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_6_contrasts.csv",
+    "rows": 198,
+    "columns": [
+      "configuration_id",
+      "communication",
+      "contrast",
+      "metric",
+      "estimate_pp",
+      "lo_pp",
+      "hi_pp"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_6_summary.csv",
+    "rows": 216,
+    "columns": [
+      "configuration_id",
+      "communication",
+      "N",
+      "metric",
+      "estimate",
+      "lo",
+      "hi",
+      "n"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_6_trajectories.csv",
+    "rows": 3977,
+    "columns": [
+      "trajectory_id",
+      "atlas_cell_id",
+      "configuration_id",
+      "R",
+      "N",
+      "communication",
+      "mean",
+      "late",
+      "final"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_7_conditions.csv",
+    "rows": 264,
+    "columns": [
+      "atlas_cell_id",
+      "configuration_id",
+      "R",
+      "N",
+      "T",
+      "E",
+      "communication",
+      "feedback",
+      "memory",
+      "membership",
+      "contribution_step_ratio",
+      "n",
+      "mean",
+      "mean_lo",
+      "mean_hi"
+    ]
+  },
+  {
+    "file": "data/main_06_07/Figure_7_dilemma_means.csv",
+    "rows": 24,
+    "columns": [
+      "configuration_id",
+      "N",
+      "mean_percent"
+    ]
+  },
+  {
+    "file": "data/supplementary/S1_communication_contrasts.csv",
+    "rows": 54,
+    "columns": [
+      "configuration_id",
+      "contrast",
+      "arm_a",
+      "arm_b",
+      "metric",
+      "estimate_pp",
+      "lo_pp",
+      "hi_pp",
+      "bootstrap_replicates",
+      "R_values",
+      "weighting",
+      "n_a_total",
+      "n_b_total"
+    ]
+  },
+  {
+    "file": "data/supplementary/S2_group_outcomes_R090.csv",
+    "rows": 483,
+    "columns": [
+      "trajectory_id",
+      "configuration_id",
+      "R",
+      "N",
+      "communication",
+      "realized_rounds",
+      "atlas_mean",
+      "atlas_early",
+      "atlas_late",
+      "atlas_final"
+    ]
+  },
+  {
+    "file": "data/supplementary/S2_group_summary.csv",
+    "rows": 18,
+    "columns": [
+      "configuration_id",
+      "communication",
+      "n",
+      "mean_percent",
+      "sd_percent",
+      "median_percent",
+      "q1_percent",
+      "q3_percent",
+      "min_percent",
+      "max_percent"
+    ]
+  },
+  {
+    "file": "data/supplementary/S3_horizon_information.csv",
+    "rows": 60,
+    "columns": [
+      "block",
+      "R",
+      "level",
+      "metric",
+      "mean",
+      "lo",
+      "hi",
+      "n",
+      "atlas_cell_id"
+    ]
+  },
+  {
+    "file": "data/supplementary/S3_task_contrasts.csv",
+    "rows": 30,
+    "columns": [
+      "block",
+      "R",
+      "level",
+      "reference",
+      "mean",
+      "lo",
+      "hi",
+      "n",
+      "n_reference"
+    ]
+  },
+  {
+    "file": "data/model_configurations.csv",
+    "rows": 9,
+    "columns": [
+      "configuration_id",
+      "model",
+      "reasoning",
+      "reasoning_effort",
+      "model_identifier"
+    ]
+  }
+]

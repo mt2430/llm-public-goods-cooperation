@@ -1,0 +1,61 @@
+block,R,level,metric,mean,lo,hi,n,atlas_cell_id
+horizon,0.6,10.0,mean,0.0,0.0,0.0,12,condition_0150
+horizon,0.98,10.0,mean,0.0055555555555555,0.0,0.0166666666666666,12,condition_0164
+horizon,0.9,10.0,mean,0.0,0.0,0.0,13,condition_0170
+horizon,1.02,10.0,mean,1.0,1.0,1.0,13,condition_0176
+horizon,1.0,10.0,mean,1.0,1.0,1.0,10,condition_0194
+horizon,0.6,1.0,mean,0.0,0.0,0.0,17,condition_0385
+horizon,0.6,5.0,mean,0.0,0.0,0.0,15,condition_0386
+horizon,0.6,20.0,mean,0.0,0.0,0.0,10,condition_0387
+horizon,0.6,50.0,mean,0.0,0.0,0.0,10,condition_0388
+horizon,0.9,1.0,mean,0.0,0.0,0.0,16,condition_0395
+horizon,0.9,5.0,mean,0.0,0.0,0.0,14,condition_0396
+horizon,0.9,20.0,mean,0.0018333333333333,0.0,0.0044999999999999,10,condition_0397
+horizon,0.9,50.0,mean,0.0024166666666666,0.0,0.0055499999999999,10,condition_0398
+horizon,0.98,1.0,mean,0.0,0.0,0.0,18,condition_0405
+horizon,0.98,5.0,mean,0.0,0.0,0.0,14,condition_0406
+horizon,0.98,20.0,mean,0.0074999999999999,0.0,0.0166666666666666,10,condition_0407
+horizon,0.98,50.0,mean,0.0089999999999999,0.0016666666666666,0.0179999999999999,10,condition_0408
+horizon,1.0,1.0,mean,0.5888888888888889,0.5111111111111111,0.6666666666666666,15,condition_0415
+horizon,1.0,5.0,mean,0.9974358974358974,0.9923076923076924,1.0,13,condition_0416
+horizon,1.0,20.0,mean,0.9991666666666668,0.9975,1.0,10,condition_0417
+horizon,1.0,50.0,mean,0.9996666666666666,0.999,1.0,10,condition_0418
+horizon,1.02,1.0,mean,0.9888888888888888,0.9666666666666668,1.0,15,condition_0425
+horizon,1.02,5.0,mean,1.0,1.0,1.0,13,condition_0426
+horizon,1.02,20.0,mean,1.0,1.0,1.0,10,condition_0427
+horizon,1.02,50.0,mean,1.0,1.0,1.0,10,condition_0428
+feedback_memory,0.6,Aggregate / all,mean,0.0,0.0,0.0,12,condition_0150
+feedback_memory,0.98,Aggregate / all,mean,0.0055555555555555,0.0,0.0166666666666666,12,condition_0164
+feedback_memory,0.9,Aggregate / all,mean,0.0,0.0,0.0,13,condition_0170
+feedback_memory,1.02,Aggregate / all,mean,1.0,1.0,1.0,13,condition_0176
+feedback_memory,1.0,Aggregate / all,mean,1.0,1.0,1.0,10,condition_0194
+feedback_memory,0.6,No feedback / no history,mean,0.0,0.0,0.0,12,condition_0389
+feedback_memory,0.6,Aggregate / 1,mean,0.0,0.0,0.0,13,condition_0390
+feedback_memory,0.6,Aggregate / 3,mean,0.0,0.0,0.0,13,condition_0391
+feedback_memory,0.6,Individual / 1,mean,0.0,0.0,0.0,13,condition_0392
+feedback_memory,0.6,Individual / 3,mean,0.0,0.0,0.0,11,condition_0393
+feedback_memory,0.6,Individual / all,mean,0.0,0.0,0.0,12,condition_0394
+feedback_memory,0.9,No feedback / no history,mean,0.0,0.0,0.0,12,condition_0399
+feedback_memory,0.9,Aggregate / 1,mean,0.0,0.0,0.0,12,condition_0400
+feedback_memory,0.9,Aggregate / 3,mean,0.0,0.0,0.0,12,condition_0401
+feedback_memory,0.9,Individual / 1,mean,0.0,0.0,0.0,13,condition_0402
+feedback_memory,0.9,Individual / 3,mean,0.0041666666666666,0.0,0.0083333333333333,12,condition_0403
+feedback_memory,0.9,Individual / all,mean,0.0,0.0,0.0,13,condition_0404
+feedback_memory,0.98,No feedback / no history,mean,0.0,0.0,0.0,11,condition_0409
+feedback_memory,0.98,Aggregate / 1,mean,0.0055555555555555,0.0,0.0124999999999999,12,condition_0410
+feedback_memory,0.98,Aggregate / 3,mean,0.009090909090909,0.0,0.0242424242424242,11,condition_0411
+feedback_memory,0.98,Individual / 1,mean,0.0083333333333333,0.0,0.0194444444444444,12,condition_0412
+feedback_memory,0.98,Individual / 3,mean,0.0124999999999999,0.0,0.0277777777777777,12,condition_0413
+feedback_memory,0.98,Individual / all,mean,0.0121212121212121,0.003030303030303,0.0227272727272727,11,condition_0414
+feedback_memory,1.0,No feedback / no history,mean,0.6300000000000001,0.6,0.6599999999999999,10,condition_0419
+feedback_memory,1.0,Aggregate / 1,mean,1.0,1.0,1.0,10,condition_0420
+feedback_memory,1.0,Aggregate / 3,mean,1.0,1.0,1.0,10,condition_0421
+feedback_memory,1.0,Individual / 1,mean,0.9983333333333334,0.995,1.0,10,condition_0422
+feedback_memory,1.0,Individual / 3,mean,1.0,1.0,1.0,10,condition_0423
+feedback_memory,1.0,Individual / all,mean,1.0,1.0,1.0,10,condition_0424
+feedback_memory,1.02,No feedback / no history,mean,0.9948717948717948,0.9884615384615386,1.0,13,condition_0429
+feedback_memory,1.02,Aggregate / 1,mean,0.9987179487179488,0.996153846153846,1.0,13,condition_0430
+feedback_memory,1.02,Aggregate / 3,mean,1.0,1.0,1.0,11,condition_0431
+feedback_memory,1.02,Individual / 1,mean,1.0,1.0,1.0,13,condition_0432
+feedback_memory,1.02,Individual / 3,mean,1.0,1.0,1.0,12,condition_0433
+feedback_memory,1.02,Individual / all,mean,1.0,1.0,1.0,12,condition_0434
