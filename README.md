@@ -1,6 +1,6 @@
 # Cooperation in language-model public-goods games
 
-Figures, analysis-ready experimental results, figure source data and offline plotting code for **Incentives, communication and the time course of cooperation in language-model public-goods games**.
+Figures, analysis-ready experimental results, figure source data and offline plotting code for **Incentives, communication and the time course of cooperation in repeated public goods games with language models**.
 
 The experiments compare DeepSeek, Kimi, Claude, GLM, GPT and Gemini under changes in contribution incentives, public communication, termination rules, group size and reasoning settings. The release contains seven main figures and three supplementary figures. Model configuration and reasoning settings remain part of the scientific data.
 
@@ -60,3 +60,4 @@ Main figures cover contribution dynamics, incentives, public communication, acti
 ## 中文说明
 
 本仓库提供7张正文图和3张补充图、干净的实验结果、作图源数据及离线分析与作图代码。保留模型、推理设置、参数、样本数和完整群体记录。去除运行日志、失败和重试记录、厂商渠道及原电脑路径。相同贡献结果的独立重复仍分别保留，不把它们当作重复数据删除。统计口径与各字段单位见[数据字典](docs/DATA_DICTIONARY.md)。
+
